@@ -1,0 +1,1 @@
+yarn jar joia-hadoop-1.0-job.jar notok /joia-in /joia-notok

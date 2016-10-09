@@ -1,0 +1,1 @@
+java -cp ".:../lib/*" br.com.auditoria.joia.thread.ThreadJoia $1

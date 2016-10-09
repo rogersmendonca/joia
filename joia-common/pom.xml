@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>br.com.auditoria.forum</groupId>
+	<artifactId>joia-common</artifactId>
+	<packaging>jar</packaging>
+	<version>${joia.version}</version>
+	<name>joia-common</name>
+
+	<parent>
+		<groupId>br.com.auditoria.forum</groupId>
+		<artifactId>joia-parent</artifactId>
+		<version>1.0</version>
+	</parent>
+
+	<developers>
+		<developer>
+			<id>rogers.mendonca</id>
+			<name>Rogers Reiche de Mendonca</name>
+			<email>rogers.rj@gmail.com</email>
+			<organization>5 Forum de Auditoria de Sistemas</organization>
+			<organizationUrl>http://www.vale.com/brasil/PT/aboutvale/news/Paginas/5-forum-de-auditoria-de-sistemas.aspx</organizationUrl>
+		</developer>
+	</developers>
+
+	<repositories>
+	</repositories>
+
+	<properties>
+	</properties>
+
+	<build>
+	</build>
+
+	<dependencies>
+	</dependencies>
+</project>
