@@ -8,11 +8,11 @@ JOIA (Job Operation - Interpretador Avançado)
 
 * Seu objetivo é obter a população de Jobs que terminaram com falha, para testar o controle de Monitoramento de Jobs (DSS01.01 Realizar procedimentos operacionais).
 
-* Versões
+* Versões:
 	- Multithread;
 	- Hadoop MapReduce.
 
-* Módulos
+* Módulos:
 	- joia-common: Utilitários comuns utilizados pelos outros módulos do JOIA.
 	- joia-multithread: Versão multithread do JOIA.
 	- joia-hadoop: Versão Hadoop MapReduce do JOIA.
