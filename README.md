@@ -6,11 +6,11 @@ JOIA (Job Operation - Interpretador Avançado)
 	- Número de execuções com falha (ENDED NOTOK) por Job;
 	- Registros das execuções com falha.
 
-* Seu objetivo é obter a população de Jobs que terminaram com falha, para testar do controle de Monitoramento de Jobs (DSS01.01 Realizar procedimentos operacionais).
+* Seu objetivo é obter a população de Jobs que terminaram com falha, para testar o controle de Monitoramento de Jobs (DSS01.01 Realizar procedimentos operacionais).
 
 * Versões
-	- Multithread (joia-multithread);
-	- Hadoop MapReduce (joia-hadoop).
+	- Multithread;
+	- Hadoop MapReduce.
 
 * Módulos
 	- joia-common: Utilitários comuns utilizados pelos outros módulos do JOIA.
