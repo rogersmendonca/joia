@@ -16,17 +16,17 @@ import java.io.FilenameFilter;
  */
 public class JoiaFilenameFilter implements FilenameFilter
 {
-    private String regex;
-    private boolean hasFilter;
+	private String regex;
+	private boolean hasFilter;
 
-    public JoiaFilenameFilter(String regex)
-    {
-        this.regex = regex;
-        this.hasFilter = (regex != null) && (regex.length() > 0);
-    }
+	public JoiaFilenameFilter(String regex)
+	{
+		this.regex = regex;
+		this.hasFilter = (regex != null) && (regex.length() > 0);
+	}
 
-    public boolean accept(File directory, String fileName)
-    {
-        return hasFilter ? fileName.matches(regex) : true;
-    }
+	public boolean accept(File directory, String fileName)
+	{
+		return hasFilter ? fileName.matches(regex) : true;
+	}
 }

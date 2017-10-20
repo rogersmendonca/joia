@@ -5,7 +5,7 @@
 	<groupId>br.com.auditoria.forum</groupId>
 	<artifactId>joia-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0</version>
+	<version>1.2</version>
 	<name>joia-parent</name>
 	<description>JOIA (Job Operation - Interpretador Avancado)</description>
 	<url>https://github.com/rogersmendonca/joia.git</url>
@@ -30,7 +30,7 @@
 	</repositories>
 
 	<properties>
-		<joia.version>1.0</joia.version>
+		<joia.version>1.2</joia.version>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

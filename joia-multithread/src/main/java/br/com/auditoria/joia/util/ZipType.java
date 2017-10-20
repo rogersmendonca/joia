@@ -9,5 +9,5 @@ package br.com.auditoria.joia.util;
  */
 public enum ZipType
 {
-    Z, ZIP, GZIP;
+	Z, ZIP, GZIP;
 }

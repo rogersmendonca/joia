@@ -11,9 +11,9 @@ import java.util.Comparator;
  */
 public class FileComparator implements Comparator<File>
 {
-    public int compare(File f1, File f2)
-    {
-        return ((f1 != null) && (f2 != null)) ? f1.getName().toUpperCase()
-                .compareTo(f2.getName().toUpperCase()) : 0;
-    }
+	public int compare(File f1, File f2)
+	{
+		return ((f1 != null) && (f2 != null)) ? f1.getName().toUpperCase()
+				.compareTo(f2.getName().toUpperCase()) : 0;
+	}
 }

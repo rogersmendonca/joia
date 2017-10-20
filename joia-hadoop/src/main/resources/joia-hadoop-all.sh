@@ -1,1 +1,1 @@
-yarn jar joia-hadoop-1.0-job.jar all /joia-in /joia-out-all
+yarn jar joia-hadoop-1.2-job.jar all /joia-in /joia-out-all
